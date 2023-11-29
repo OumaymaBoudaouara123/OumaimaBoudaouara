@@ -14,14 +14,12 @@ const Project = (props) => {
 				<Link to={link}>
 					<div className="project-container">
 						<div className="project-logo">
-							<img src={logo} alt="logo" />
+							<img src={logo} alt="logo" style={{ width: '200px', height: '200px' }} />
 						</div>
 						<div className="project-title">{title}</div>
 						<div className="project-description">{description}</div>
 						<div className="project-link">
-							<div className="project-link-icon">
-								<FontAwesomeIcon icon={faLink} />
-							</div>
+						
 
 							<div className="project-link-text">{linkText}</div>
 						</div>

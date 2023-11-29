@@ -35,49 +35,35 @@ const INFO = {
 
 	projects: [
 		{
-			
+			title:"End-of-studies internship: Digital Healthcare Space",
 			description:
-				"End-of-studies internship: Digital Healthcare Space",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				" Creation of a platform for sharing medical reports among patients, doctors, and administrators, utilizing ReactJS, Redux, PHP/Symfony, and SQL (MySQL)",
+			logo: "ens.png",
+			//linkText: "View Project",
+			//link: "https://github.com",
 		},
 
 		{
-			title: "Project 2",
+			title:"Covid mobile application.",
 			description:
-				"Covid mobile application.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com/OumaymaBoudaouara123/projet-ionic",
+				"Developing a COVID-19 application with an integrated API that retrieves information by specifying the country s name using Ionic and Firebase.",
+			logo: "covida.png",
+			//linkText: "View Project",
+			//link: "https://github.com/OumaymaBoudaouara123/projet-ionic",
 		},
 
 		{
-			title: "Project 3",
+			title:"E-commerce Application.",
 			description:
-				"E-commerce Application.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				"Development of an e-commerce application using Node.js, React, and MongoDB.",
+			logo: "ang.png",
+			//linkText: "View Project",
+			//link: "https://github.com",
 		},
 
-		{
-			title: "Project 4",
-			description:
-				"Prestashop.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://www.flydev.fr/",
-		},
+	
 
-		{
-			title: "Project 5",
-			description:
-				"Lorem ",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
+		
 	],
 };
 

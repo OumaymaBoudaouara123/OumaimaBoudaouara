@@ -2,6 +2,7 @@
 
 .works-body {
 	margin-bottom: 10px;
+	display: inline-block;
 }
 
 .work {
@@ -41,4 +42,14 @@
 	padding-top: 20px;
 	text-align: right;
 	color: var(--tertiary-color);
+
+
 }
+/* Conteneur parent pour les cartes */
+.card-container {
+	
+	justify-content: space-between; /* Les cartes sont espacées de manière égale */
+	color: aqua;
+  }
+  
+
